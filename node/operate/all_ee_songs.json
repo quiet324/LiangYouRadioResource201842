@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180708",
-		"title": "不再孤独走一生：神真的不听你的祷告，不愿成全你的祷告吗？",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180708.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/ee20180708/ee/ee180708.mp3",
-		"id": 29180708
-	},
-	{
 		"time": "20180709",
 		"title": "静夜亮光：你要登高山；不再孤独走一生：基督徒的金钱观",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180709.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ee20181013/ee/ee181013.mp3",
 		"id": 29181013
+	},
+	{
+		"time": "20181014",
+		"title": "特辑：展翅飞扬的人生（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181014.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ee20181014/ee/ee181014.mp3",
+		"id": 29181014
 	}
 ]
