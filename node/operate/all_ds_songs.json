@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180708",
-		"title": "良院讲台：爱里的退让和成全（创13:1-13；讲员：文惠）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180708.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/ds20180708/ds/ds180708.mp3",
-		"id": 46180708
-	},
-	{
 		"time": "20180709",
 		"title": "良院专区：院庆分享；公布《旧约历史书II》和《单身事工》考题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180709.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ds20181013/ds/ds181013.mp3",
 		"id": 46181013
+	},
+	{
+		"time": "20181014",
+		"title": "良院讲台：同走属灵的赛程（来12:1-2上；讲员：马贵）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181014.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ds20181014/ds/ds181014.mp3",
+		"id": 46181014
 	}
 ]
