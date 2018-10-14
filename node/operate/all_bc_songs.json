@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180706",
-		"title": "黑暗中的舞者：第八章、在黑暗中不断进步-2；第九章、感恩的理由",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180706.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/bc20180706/bc/bc180706.mp3",
-		"id": 10180706
-	},
-	{
 		"time": "20180709",
 		"title": "信心日引：永生是确定的（创5:24）；大阅读家：第二章、睁大眼睛看人子-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180709.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/bc20181012/bc/bc181012.mp3",
 		"id": 10181012
+	},
+	{
+		"time": "20181015",
+		"title": "信心日引：神的训练方法（创45:3）；俗世圣徒：第九章、伙伴-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181015.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/bc20181015/bc/bc181015.mp3",
+		"id": 10181015
 	}
 ]
