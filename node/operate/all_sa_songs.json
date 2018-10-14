@@ -2729,5 +2729,15 @@
 		"artistName": "零点凡星",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/sa20181012/sa/sa181012.mp3",
 		"id": 60181012
+	},
+	{
+		"time": "20181015",
+		"downUrl": "http://txly2.net/ly/audio/2018/sa/sa181015.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 60,
+		"artistName": "零点凡星",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/sa20181015/sa/sa181015.mp3",
+		"id": 60181015
 	}
 ]
