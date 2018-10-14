@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180706",
-		"title": "情感交流站：活出应有的生活样式",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180706.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ut20180706/ut/ut180706.mp3",
-		"id": 18180706
-	},
-	{
 		"time": "20180709",
 		"title": "为神建立家室：主的怜顾",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180709.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ut20181012/ut/ut181012.mp3",
 		"id": 18181012
+	},
+	{
+		"time": "20181015",
+		"title": "情感交流站：神大能胜过一切",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181015.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ut20181015/ut/ut181015.mp3",
+		"id": 18181015
 	}
 ]
