@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180709",
-		"title": "为主来梦想──简铭兴的故事（4）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180709.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/gn20180709/gn/gn180709.mp3",
-		"id": 22180709
-	},
-	{
 		"time": "20180710",
 		"title": "自耶稣来住在我心──淑芬的故事（上）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180710.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/gn20181015/gn/gn181015.mp3",
 		"id": 22181015
+	},
+	{
+		"time": "20181016",
+		"title": "做父母的真智慧──延凤的故事",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181016.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/gn20181016/gn/gn181016.mp3",
+		"id": 22181016
 	}
 ]
