@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180706",
-		"title": "好得无比，每一天：不再惯性说谎（约壹1:9）；健康咨询站（6）（主持：李重恩、周彩云；嘉宾： 陈医生）；我爱背金句：提后4:2",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180706.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/dy20180706/dy/dy180706.mp3",
-		"id": 24180706
-	},
-	{
 		"time": "20180709",
 		"title": "好得无比，每一天：处处坏消息（箴25:25，15:30）；职场转化（7）（主持：林诚）；我爱背金句：提前4:12",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180709.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/dy20181012/dy/dy181012.mp3",
 		"id": 24181012
+	},
+	{
+		"time": "20181015",
+		"title": "好得无比，每一天：亚伯拉罕从不问的四道问题（来11:19）；天路历程（6）；我爱背金句：罗10:14",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181015.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/dy20181015/dy/dy181015.mp3",
+		"id": 24181015
 	}
 ]
