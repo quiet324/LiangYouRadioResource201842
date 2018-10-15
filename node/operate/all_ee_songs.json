@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180710",
-		"title": "静夜亮光：主耶稣的死和十字架，对我们人生的意义；不再孤独走一生：与神面对面说话",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180710.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/ee20180710/ee/ee180710.mp3",
-		"id": 29180710
-	},
-	{
 		"time": "20180711",
 		"title": "静夜亮光：神精心的杰作；不再孤独走一生：神无条件的爱",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180711.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ee20181015/ee/ee181015.mp3",
 		"id": 29181015
+	},
+	{
+		"time": "20181016",
+		"title": "特辑：展翅飞扬的人生（3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181016.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ee20181016/ee/ee181016.mp3",
+		"id": 29181016
 	}
 ]
