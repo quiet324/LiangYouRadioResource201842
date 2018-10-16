@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180711",
-		"title": "绝妙工作101：踏入职场的第一步",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180711.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/yu20180711/yu/yu180711.mp3",
-		"id": 7180711
-	},
-	{
 		"time": "20180712",
 		"title": "绝妙热话题：双胞胎",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180712.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/yu20181016/yu/yu181016.mp3",
 		"id": 7181016
+	},
+	{
+		"time": "20181017",
+		"title": "绝妙各行业：电视儿童节目（上）",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181017.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/yu20181017/yu/yu181017.mp3",
+		"id": 7181017
 	}
 ]
