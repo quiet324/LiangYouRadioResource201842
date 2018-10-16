@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180710",
-		"title": "弹指之间：《新的事将要成就》、《神的道路》、《信心的旅途》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180710.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/cw20180710/cw/cw180710.mp3",
-		"id": 51180710
-	},
-	{
 		"time": "20180711",
 		"title": "心歌心曲：洛莉席莉《神的作为何等奥秘》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180711.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cw20181016/cw/cw181016.mp3",
 		"id": 51181016
+	},
+	{
+		"time": "20181017",
+		"title": "心歌心曲：托蕾‧凯莉Hiding Place专辑",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181017.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cw20181017/cw/cw181017.mp3",
+		"id": 51181017
 	}
 ]
