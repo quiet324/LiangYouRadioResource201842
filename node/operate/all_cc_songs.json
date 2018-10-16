@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180728",
-		"title": "乐哉家庭：真儿子、真父亲（5）（王帆牧师）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180728.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/cc20180728/cc/cc180728.mp3",
-		"id": 15180728
-	},
-	{
 		"time": "20180729",
 		"title": "心存主道：诗103篇（罗文辉老师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180729.mp3",
@@ -944,5 +933,16 @@
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cc20181015/cc/cc181015.mp3",
 		"id": 15181015
+	},
+	{
+		"time": "20181016",
+		"title": "热线辅导：婚姻家庭、亲子教育",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181016.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cc20181016/cc/cc181016.mp3",
+		"id": 15181016
 	}
 ]
