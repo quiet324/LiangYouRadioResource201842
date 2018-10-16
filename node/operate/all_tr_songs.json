@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180710",
-		"title": "荒漠甘泉乐侣：《神未曾应许》",
-		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180710.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 52,
-		"artistName": "彩虹桥",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/tr20180710/tr/tr180710.mp3",
-		"id": 52180710
-	},
-	{
 		"time": "20180711",
 		"title": "诗歌欣赏：《毛毛虫》、《蝶梦翩翩》、《蝴蝶》、《生命蜕变》、《蜕变》",
 		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180711.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "彩虹桥",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/tr20181016/tr/tr181016.mp3",
 		"id": 52181016
+	},
+	{
+		"time": "20181017",
+		"title": "诗歌欣赏：《造飞机》、《飞》、《风雨中也能飞翔》、《曙光》",
+		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr181017.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 52,
+		"artistName": "彩虹桥",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/tr20181017/tr/tr181017.mp3",
+		"id": 52181017
 	}
 ]
