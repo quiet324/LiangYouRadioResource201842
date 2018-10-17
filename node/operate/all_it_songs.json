@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180711",
-		"title": "风暴中神的供应（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180711.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/it20180711/it/it180711.mp3",
-		"id": 41180711
-	},
-	{
 		"time": "20180712",
 		"title": "风暴中神的供应（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180712.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/it20181017/it/it181017.mp3",
 		"id": 41181017
+	},
+	{
+		"time": "20181018",
+		"title": "神的吸引（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181018.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/it20181018/it/it181018.mp3",
+		"id": 41181018
 	}
 ]
