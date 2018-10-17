@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180712",
-		"title": "静夜亮光：你知道你主人所说的吗？不再孤独走一生：从摩西学习人生的功课",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180712.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/ee20180712/ee/ee180712.mp3",
-		"id": 29180712
-	},
-	{
 		"time": "20180713",
 		"title": "静夜亮光：我们所渴慕的是基督的恩典，还是基督自己；不再孤独走一生：勇敢的心",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180713.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ee20181017/ee/ee181017.mp3",
 		"id": 29181017
+	},
+	{
+		"time": "20181018",
+		"title": "特辑：展翅飞扬的人生（5）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181018.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ee20181018/ee/ee181018.mp3",
+		"id": 29181018
 	}
 ]
