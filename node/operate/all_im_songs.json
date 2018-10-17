@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180711",
-		"title": "太太空间：不可承受婚外情之罪──这是一篇生命的回响见证──她在婚外情的深渊中越滑越远却不以为意，直到身患恶性肿瘤才深刻意识到自己的行为是在得罪神……",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180711.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/im20180711/im/im180711.mp3",
-		"id": 14180711
-	},
-	{
 		"time": "20180712",
 		"title": "黄昏下午茶：体会同性恋者的心伤──品尝过自己的眼泪，才能体会到别人的心伤。这是一篇关怀陪伴同性恋者的手记，作者通过与一位同性恋者的接触，体会到同性恋者内心的挣扎与痛苦，从教会以及基督徒个体该如何接纳一个罪人的角度，提出一些思考和看见。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180712.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/im20181017/im/im181017.mp3",
 		"id": 14181017
+	},
+	{
+		"time": "20181018",
+		"title": "信仰大擂台：上帝听祷告吗之不蒙应允的祷告──每个人都可以向神祷告，也都希望自己的祷告被神垂听，但当祷告似乎没有回应、不蒙应许时，就是神没有听祷告吗？",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181018.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/im20181018/im/im181018.mp3",
+		"id": 14181018
 	}
 ]
