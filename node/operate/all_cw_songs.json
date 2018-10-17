@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180711",
-		"title": "心歌心曲：洛莉席莉《神的作为何等奥秘》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180711.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/cw20180711/cw/cw180711.mp3",
-		"id": 51180711
-	},
-	{
 		"time": "20180712",
 		"title": "来吧赞美：《我们是光明之子》、《每一天我需要你》、《HI NE NI 我在这里》、《如明光照耀》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180712.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cw20181017/cw/cw181017.mp3",
 		"id": 51181017
+	},
+	{
+		"time": "20181018",
+		"title": "来吧赞美：《神的道路》、《在主里的时刻》、《炼我愈精》、《主的恩典乃是一生之久》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181018.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cw20181018/cw/cw181018.mp3",
+		"id": 51181018
 	}
 ]
