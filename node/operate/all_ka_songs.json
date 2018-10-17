@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180713",
-		"title": "信仰Q&A：圣经有没有提到要我们环保？",
-		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka180713.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 3,
-		"artistName": "天使夜未眠",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/ka20180713/ka/ka180713.mp3",
-		"id": 3180713
-	},
-	{
 		"time": "20180714",
 		"title": "你我祂的故事：耶稣医治十个大痲疯",
 		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka180714.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "天使夜未眠",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ka20181017/ka/ka181017.mp3",
 		"id": 3181017
+	},
+	{
+		"time": "20181018",
+		"title": "回收人生ing：走出同志疑云──祈帆（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka181018.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 3,
+		"artistName": "天使夜未眠",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ka20181018/ka/ka181018.mp3",
+		"id": 3181018
 	}
 ]
