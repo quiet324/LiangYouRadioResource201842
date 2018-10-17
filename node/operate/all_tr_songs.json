@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180711",
-		"title": "诗歌欣赏：《毛毛虫》、《蝶梦翩翩》、《蝴蝶》、《生命蜕变》、《蜕变》",
-		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180711.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 52,
-		"artistName": "彩虹桥",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/tr20180711/tr/tr180711.mp3",
-		"id": 52180711
-	},
-	{
 		"time": "20180712",
 		"title": "诗歌欣赏：《他名是耶稣》、《耶稣耶稣》、《我决心》",
 		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180712.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "彩虹桥",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/tr20181017/tr/tr181017.mp3",
 		"id": 52181017
+	},
+	{
+		"time": "20181018",
+		"title": "诗歌欣赏：《展开清晨的翅膀》、《飞》、《渴望》",
+		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr181018.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 52,
+		"artistName": "彩虹桥",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/tr20181018/tr/tr181018.mp3",
+		"id": 52181018
 	}
 ]
