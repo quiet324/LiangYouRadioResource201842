@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180711",
-		"title": "启示录七间教会系列：非拉铁非（6）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180711.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/pb20180711/pb/pb180711.mp3",
-		"id": 44180711
-	},
-	{
 		"time": "20180712",
 		"title": "启示录七间教会系列：非拉铁非（7）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180712.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/pb20181017/pb/pb181017.mp3",
 		"id": 44181017
+	},
+	{
+		"time": "20181018",
+		"title": "信仰生命之道系列：悔改生活",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181018.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/pb20181018/pb/pb181018.mp3",
+		"id": 44181018
 	}
 ]
