@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180728",
-		"title": "乐哉家庭：真儿子、真父亲（5）（王帆牧师）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180728.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/cc20180728/cc/cc180728.mp3",
-		"id": 15180728
-	},
-	{
 		"time": "20180730",
 		"title": "每周辅导教室：优先次序",
 		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180730.mp3",
@@ -944,5 +933,16 @@
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cc20181017/cc/cc181017.mp3",
 		"id": 15181017
+	},
+	{
+		"time": "20181019",
+		"title": "热线辅导",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181019.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cc20181019/cc/cc181019.mp3",
+		"id": 15181019
 	}
 ]
