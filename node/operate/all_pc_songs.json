@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180713",
-		"title": "皮小弟与妙阿姨：长子的名份（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180713.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/pc20180713/pc/pc180713.mp3",
-		"id": 17180713
-	},
-	{
 		"time": "20180714",
 		"title": "圣经好好听：约翰的异象",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180714.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/pc20181018/pc/pc181018.mp3",
 		"id": 17181018
+	},
+	{
+		"time": "20181019",
+		"title": "皮小弟与妙阿姨：我需要一双鞋",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181019.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/pc20181019/pc/pc181019.mp3",
+		"id": 17181019
 	}
 ]
