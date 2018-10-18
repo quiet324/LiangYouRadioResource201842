@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180712",
-		"title": "诗歌欣赏：《他名是耶稣》、《耶稣耶稣》、《我决心》",
-		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180712.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 52,
-		"artistName": "彩虹桥",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/tr20180712/tr/tr180712.mp3",
-		"id": 52180712
-	},
-	{
 		"time": "20180713",
 		"title": "野地的花小语：相信苦难的背后有“主”，有眼光，期待生命的珍宝……",
 		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180713.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "彩虹桥",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/tr20181018/tr/tr181018.mp3",
 		"id": 52181018
+	},
+	{
+		"time": "20181019",
+		"title": "野地的花小语：祷告像一把钥匙，开启神善良纯全可喜悦的旨意，成就在专心寻求人的身上……",
+		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr181019.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 52,
+		"artistName": "彩虹桥",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/tr20181019/tr/tr181019.mp3",
+		"id": 52181019
 	}
 ]
