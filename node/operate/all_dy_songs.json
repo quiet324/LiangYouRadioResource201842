@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180711",
-		"title": "好得无比，每一天：谁还肯负责任（林后5:10）；建立生命的基石（7）（主持：刘芳）；我爱背金句：提前4:12",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180711.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/dy20180711/dy/dy180711.mp3",
-		"id": 24180711
-	},
-	{
 		"time": "20180712",
 		"title": "好得无比，每一天：我们真的相信有地狱吗？（太25:46）；教会的种子（7）（主持：万峰）；我爱背金句：提前4:12",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180712.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/dy20181017/dy/dy181017.mp3",
 		"id": 24181017
+	},
+	{
+		"time": "20181018",
+		"title": "好得无比，每一天：永不发霉的面包（加6:9）；天路历程（9）；我爱背金句：罗10:14",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181018.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/dy20181018/dy/dy181018.mp3",
+		"id": 24181018
 	}
 ]
