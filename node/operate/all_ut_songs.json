@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180712",
-		"title": "生活百花园：谨守诫命",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180712.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/ut20180712/ut/ut180712.mp3",
-		"id": 18180712
-	},
-	{
 		"time": "20180713",
 		"title": "情感交流站：如同主的形状",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180713.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ut20181018/ut/ut181018.mp3",
 		"id": 18181018
+	},
+	{
+		"time": "20181019",
+		"title": "生活百花园：安慰的言语",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181019.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ut20181019/ut/ut181019.mp3",
+		"id": 18181019
 	}
 ]
