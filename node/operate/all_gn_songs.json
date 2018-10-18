@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180712",
-		"title": "我信主了──Joy的故事（上）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180712.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/gn20180712/gn/gn180712.mp3",
-		"id": 22180712
-	},
-	{
 		"time": "20180713",
 		"title": "生命之歌",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180713.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/gn20181018/gn/gn181018.mp3",
 		"id": 22181018
+	},
+	{
+		"time": "20181019",
+		"title": "生命之歌",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181019.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/gn20181019/gn/gn181019.mp3",
+		"id": 22181019
 	}
 ]
