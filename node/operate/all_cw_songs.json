@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180712",
-		"title": "来吧赞美：《我们是光明之子》、《每一天我需要你》、《HI NE NI 我在这里》、《如明光照耀》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180712.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/cw20180712/cw/cw180712.mp3",
-		"id": 51180712
-	},
-	{
 		"time": "20180713",
 		"title": "赞美旋律：亨德尔《参孙》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180713.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cw20181018/cw/cw181018.mp3",
 		"id": 51181018
+	},
+	{
+		"time": "20181019",
+		"title": "赞美旋律：门德尔松第二号交响曲《赞美颂歌》（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181019.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cw20181019/cw/cw181019.mp3",
+		"id": 51181019
 	}
 ]
