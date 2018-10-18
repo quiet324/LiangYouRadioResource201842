@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180712",
-		"title": "信心日引：到父那里去（约14:6）；大阅读家：第三章、阅读是相信-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180712.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/bc20180712/bc/bc180712.mp3",
-		"id": 10180712
-	},
-	{
 		"time": "20180713",
 		"title": "黑暗中的舞者：第十章、恩上加恩；第十一章、双倍祝福",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180713.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/bc20181018/bc/bc181018.mp3",
 		"id": 10181018
+	},
+	{
+		"time": "20181019",
+		"title": "彩虹花园：第五章、雪里的萌芽-2；第六章、花园里的陌生人-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181019.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/bc20181019/bc/bc181019.mp3",
+		"id": 10181019
 	}
 ]
