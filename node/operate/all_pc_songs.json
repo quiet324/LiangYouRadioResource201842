@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180714",
-		"title": "圣经好好听：约翰的异象",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180714.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/pc20180714/pc/pc180714.mp3",
-		"id": 17180714
-	},
-	{
 		"time": "20180716",
 		"title": "你来品品理：弯弯树（下）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180716.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/pc20181019/pc/pc181019.mp3",
 		"id": 17181019
+	},
+	{
+		"time": "20181020",
+		"title": "圣经好好听：所罗门王的祷告",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181020.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/pc20181020/pc/pc181020.mp3",
+		"id": 17181020
 	}
 ]
