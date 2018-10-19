@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180714",
-		"title": "从布道到培训：执事会的必须性（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180714.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/ds20180714/ds/ds180714.mp3",
-		"id": 46180714
-	},
-	{
 		"time": "20180715",
 		"title": "良院讲台：振奋的祷告（赛64:1-3；讲员：姚谦）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180715.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ds20181019/ds/ds181019.mp3",
 		"id": 46181019
+	},
+	{
+		"time": "20181020",
+		"title": "从布道到培训：忠心传道（主持：卢文、周虹）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181020.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ds20181020/ds/ds181020.mp3",
+		"id": 46181020
 	}
 ]
