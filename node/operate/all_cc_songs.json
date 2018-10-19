@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180730",
-		"title": "每周辅导教室：优先次序",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180730.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/cc20180730/cc/cc180730.mp3",
-		"id": 15180730
-	},
-	{
 		"time": "20180801",
 		"title": "热线辅导",
 		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180801.mp3",
@@ -944,5 +933,16 @@
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cc20181019/cc/cc181019.mp3",
 		"id": 15181019
+	},
+	{
+		"time": "20181018",
+		"title": "热线辅导：婚姻家庭、亲子教育",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181018.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cc20181018/cc/cc181018.mp3",
+		"id": 15181018
 	}
 ]
