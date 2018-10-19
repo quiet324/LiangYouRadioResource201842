@@ -30637,5 +30637,8 @@
 	},
 	{
 		"fileName": "../operate/all_ir20181020_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cc20181020_songs.json"
 	}
 ]
